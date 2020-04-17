@@ -3,4 +3,4 @@
 中文是利用jieba进行分词、词频统计、绘制词云、情感分析，
 英文是利用SpaCy进行分词/lemmatizing/punctuating/tokenizing/display/句子划分/parsing
 # 具体操作
-打开ipynotebook就可以看到了# Chinese_English_NLP_demo
+打开ipynotebook就可以看到了.
