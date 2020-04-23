@@ -4,3 +4,5 @@
 英文是利用SpaCy进行分词/lemmatizing/punctuating/tokenizing/display/句子划分/parsing
 # 具体操作
 打开ipynotebook就可以看到了.
+# 新增
+增加了一个关于《红楼梦》的文本人物关系抽取
